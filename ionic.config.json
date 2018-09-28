@@ -1,0 +1,7 @@
+{
+  "name": "AppEnergia",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
